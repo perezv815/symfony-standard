@@ -557,12 +557,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/doctrine2.git",
-                "reference": "0a31ecb28329b878e3695a20700388415fcbc877"
+                "reference": "b7cb1e98ee4264e6c65352c596573f070b25d67c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/0a31ecb28329b878e3695a20700388415fcbc877",
-                "reference": "0a31ecb28329b878e3695a20700388415fcbc877",
+                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/b7cb1e98ee4264e6c65352c596573f070b25d67c",
+                "reference": "b7cb1e98ee4264e6c65352c596573f070b25d67c",
                 "shasum": ""
             },
             "require": {
@@ -624,7 +624,7 @@
                 "database",
                 "orm"
             ],
-            "time": "2013-10-21 07:45:51"
+            "time": "2013-10-23 09:32:45"
         },
         {
             "name": "incenteev/composer-parameter-handler",
